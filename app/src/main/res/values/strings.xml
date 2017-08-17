@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HappyTrails</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_remove">RemoveActivity</string>
+    <string name="title_activity_display_alpha">DisplayAlpha</string>
+    <string name="title_activity_display_rate">DisplayRate</string>
+    <string name="title_activity_display_state">DisplayState</string>
+    <string name="title_activity_display_landmark">DisplayLandmark</string>
+    <string name="title_activity_display_not_hiked">DisplayNotHiked</string>
+    <string name="title_activity_display_proximal">DisplayProximal</string>
+</resources>
